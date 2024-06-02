@@ -1,6 +1,7 @@
 {
   "name": "tanguy-portfolio",
   "version": "0.1.0",
+  "homepage": "https://tanguylcr.com/",
   "private": true,
   "dependencies": {
     "@react-three/fiber": "^8.16.7",
