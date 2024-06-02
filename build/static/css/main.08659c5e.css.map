@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.08659c5e.css","mappings":"AAAA,EAKE,qBAAuB,CAHvB,WAAY,CACZ,QAAS,CACT,SAAU,CAHV,UAKF,CACA,EACC,cACD","sources":["App.css"],"sourcesContent":["* {\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n  background-color: black;\n}\na {\n font-size: 1000;\n}\n"],"names":[],"sourceRoot":""}
